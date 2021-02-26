@@ -157,8 +157,12 @@
   background-color: #21c87a;
   border-color: #21c87a;
 }
+.tab-content .tab-pane .info:first-child {
+  margin-top: 2rem;
+}
 .tab-content .tab-pane .info {
   margin-bottom: 3rem;
+  text-align: center;
 }
 .tab-content .tab-pane img {
   max-width: 4rem;
