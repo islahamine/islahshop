@@ -630,6 +630,12 @@
     margin-top: 10px;
   }
 }
+@media (max-width: 767px) {
+  .table-price .table .free,
+  .table-price .table .team {
+    text-align: center;
+  }
+}
 @media (min-width: 576px) and(max-width:767px) {
   .join input[type="text"] {
     width: 49%;
